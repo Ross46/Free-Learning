@@ -1,5 +1,7 @@
 - - -
-# Why This Model ???
+# [Why This Model ???](./WTM.html)
+
+- - -
 
 ## Below is a list of some popular playgrounds
 1. [Vulnhub](https://www.vulnhub.com/about/)  
@@ -30,12 +32,26 @@
     Gain from Offensive-Security:
     * The right content and fabulous labs attracts a huge crowd. The discipline and close guarded secrets make it even more sought after.  
 
+4. [Pentester Academy](https://www.pentesteracademy.com/)  
+   Pentester Academy is another soughtafter and pirated video learning material. Its offer of [AttackDefence](https://www.attackdefense.com/) is another cool collection of Linux labs which is worth playing. Browser based lab interface is a distinguishing character similar to [Pentesterlab](https://pentesterlab.com/). AttackDefence labs offers solution to every labs which is really good for beginners.
+
+   Gain from Pentester Academy:
+   * Focusing on every aspect from basics to advanced gives a very good understanding to the student and the teaching method has a lasting impact on the student.  
+
+5. [Try Hack Me](https://www.tryhackme.com/)  
+   Try Hack Me is another great learning platform which offers a very wide variety of services at a very reasonable price. Very friendly to beginners who just started or has no idea in the field of cybersec. Their community is really good and is gaining popularity very quick.
+
+   Gain from Try Hack Me:
+   * Focus on every aspect of learning and materials must be simple enough for a beginners to work on their own.
+
 - - -
 
 Authors Idea:  
   * Implementing the Vulnhub's model authors can create a series of VM having a variety of flaws and develop a storyline to hack.  
   * Setting up of labs is quite a tedious task for an individual. But you dont learn unless you try it on your own. The community can help set up lab at your place by setting up configuration scripts.
   * Users like quality content but prefer to get it for free and the brand name pays a long way. A lot of authors can create the Proof of Concept for the labs they author and its a win win situation as the author gets recognition and complete credits for his work and no piracy of his contents as its already out for free. Students learn for free, the author being an university student knows the cash crunch and the present Coronavirus situation has made life hard for them, Free-Learning wants to offer its services for free.
+  * Learning modules to be created from the very basics are fundamentals are building blocks, and offering the solutions though might make the student lazy to think, is a positive aspect to learning. Focusing on various walkthroughs helps give students the thought of trying something different.
+  * Beginners (noobs as called in the community) need support to understand rather than bully (google it, few desereve that though XD). Everybody starts from somewhere, a little guidance can change the entire course for them. So the community is open to all.
 
 - - -
 
