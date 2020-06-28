@@ -50,7 +50,7 @@ Authors Idea:
   * Implementing the Vulnhub's model authors can create a series of VM having a variety of flaws and develop a storyline to hack.  
   * Setting up of labs is quite a tedious task for an individual. But you dont learn unless you try it on your own. The community can help set up lab at your place by setting up configuration scripts.
   * Users like quality content but prefer to get it for free and the brand name pays a long way. A lot of authors can create the Proof of Concept for the labs they author and its a win win situation as the author gets recognition and complete credits for his work and no piracy of his contents as its already out for free. Students learn for free. This content author being an university student knows the cash crunch and the present Coronavirus situation has made life hard for them, Free-Learning wants to offer its services for free.
-  * Learning modules to be created from the very basics are fundamentals are building blocks, and offering the solutions though might make the student lazy to think, is a positive aspect to learning. Focusing on various walkthroughs helps give students the thought of trying something different.
+  * Learning modules to be created from the very basics as fundamentals are building blocks. Offering the solutions (though might make the student lazy to think), is a positive aspect to learning. Focusing on various walkthroughs helps give students the thought of trying something different.
   * Beginners (noobs as called in the community) need support to understand rather than bully (google it, few desereve that though XD). Everybody starts from somewhere, a little guidance can change the entire course for them. So the community is open to all.
 
 - - -
