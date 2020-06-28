@@ -5,17 +5,17 @@ This project is planned to work as a community contributed project.
 - - -
 
 ## Requirements
-1. Scenario Planners
+1. [Scenario Planners](https://ross46.github.io/Free-Learning/map/files/Defensive/Defensive.html)
     - Scenario planning for a lab simulation.  
     - Eazy to complex scenarios.  
     - Using Homogeneous/Heterogenous group of VMs.  
 2. Authors  
-    * Lab Authors
+    * [Lab Authors](https://ross46.github.io/Free-Learning/map/files/Defensive/Simulated.html)
       - Authors to create simulation from the scenario designs.
       - Automate Lab deployment in users system.
       - Adhere to all rules and copyrights.
       - Important to document the lab creation methods.  
-    * Content Authors  
+    * [Content Authors  ](https://ross46.github.io/Free-Learning/map/files/Defensive/Non_Simulated_Attacks.html)
       - Feasability study.
       - Author Proof of Concept
       - Work with Scenario Planners to design the scenario.
@@ -28,17 +28,17 @@ This project is planned to work as a community contributed project.
       - Testing of scenario deployment
       - Work with Lab Authors to mitigate bugs.
       - Deployment Testing.
-4. Setup Team (Top Priority)  
+4. [Setup Team](https://ross46.github.io/Free-Learning/map/files/Setup/Setup.html) (Top Priority)  
     * Main Task  
-        * VPN Deployment  
+        * [VPN Deployment](https://ross46.github.io/Free-Learning/map/files/Setup/VPN.html)
             - Server Deployment and Management.
             - Log storage and Firewall/Sandbox configuration.
             - Route Management.
-        * Network Designers  
+        * [Network Designers](https://ross46.github.io/Free-Learning/map/files/Setup/NC.html)
             - Host and Client Network
             - Sandboxing Lab traffic
             - VPN Network planning
-        * Script Writers
+        * [Script Writers](https://ross46.github.io/Free-Learning/map/files/Setup/CS.html)
             - Deployment Script Writers.
             - Windows and Linux Compatible Code
             - Proof of Concept for Deployments.
@@ -47,7 +47,7 @@ This project is planned to work as a community contributed project.
             - Developers for "Dedicated Lab OS".
             - Server creation.
             - Repository Management.
-    * Virtualization Environment
+    * [Virtualization Environment](https://ross46.github.io/Free-Learning/map/files/Setup/Config.html)
         * Support for VirtualBox
           - Preferred as free of cost and Popular with Windows and Linux OS
         * Switch and Router Virtualization
