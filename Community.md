@@ -9,7 +9,7 @@ This project is planned to work as a community contributed project.
     - Scenario planning for a lab simulation.  
     - Eazy to complex scenarios.  
     - Using Homogeneous/Heterogenous group of VMs.  
-2. Authors  
+2. [Authors](https://ross46.github.io/Free-Learning/map/files/Defensive/Defensive.html)
     * [Lab Authors](https://ross46.github.io/Free-Learning/map/files/Defensive/Simulated.html)
       - Authors to create simulation from the scenario designs.
       - Automate Lab deployment in users system.
@@ -19,12 +19,12 @@ This project is planned to work as a community contributed project.
       - Feasability study.
       - Author Proof of Concept
       - Work with Scenario Planners to design the scenario.
-3. Testers  
-    * Deployment Testers  
+3. [Testers](https://ross46.github.io/Free-Learning/map/files/Setup/CS.html)
+    * [Deployment Testers](https://ross46.github.io/Free-Learning/map/files/Setup/IS.html)  
       - Testing of lab deployment.
       - Testing in Windows and Linux environment.
       - Testing on multi server environment.  
-    * Lab Testers  
+    * [Lab Testers](https://ross46.github.io/Free-Learning/map/files/Setup/VM.html)
       - Testing of scenario deployment
       - Work with Lab Authors to mitigate bugs.
       - Deployment Testing.
