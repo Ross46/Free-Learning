@@ -1,8 +1,10 @@
 - - -
 # About
-A Small Project to create a home environment lab setup.  
+A Small Idea to deploy a home lab setup.  
 [Jump to text based description](https://Ross46.github.io/Free-Learning/map/files/Index.html)  
 [The Mindmap about the contents and topic can be found in here](https://Ross46.github.io/Free-Learning/map)  
+## Mind map Created with Code by
+<https://github.com/lockfale/osint-framework>
 - - -
 
 ## Click on the link to view the demo videos
